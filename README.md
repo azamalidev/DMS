@@ -3,6 +3,13 @@
 ## Project Overview
 A full-stack document management system with authentication, file uploads, category management, real-time notifications, and admin dashboard. Built with Node.js, Express, TypeScript, Next.js, Socket.io, Redis, and AWS S3.
 
+## 🎥 Demo Video
+
+<video width="100%" controls>
+  <source src="assets/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Project Setup Instructions
 
 ### Backend
